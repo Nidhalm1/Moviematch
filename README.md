@@ -1,8 +1,6 @@
 # MovieMatch 🎬 (Go)
 
-MovieMatch est une **API REST de recommandation de films** écrite en Go, pensée pour être un projet
-présentable sur un CV : architecture claire, base de données, auth JWT, tests, Docker.
-
+MovieMatch est une **API REST de recommandation de films** écrite en Go
 ## 🚀 Stack technique
 
 - Go 1.22
